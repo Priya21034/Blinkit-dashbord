@@ -29,6 +29,12 @@ Chart's Requirements
 *  sales By Outlet Location:
    Objective: Provide a comprehensive view of all key metrics(Total Sales,Average sales, Number of Items, Average 
    Ratings broken down by different outlet types. Chart Type:Matrix Card
+
+   ### Dashboard
+   -<a href="https://github.com/Priya21034/Blinkit-dashbord/blob/main/BlinkIT%20Dashboard.xlsx"> View Dashboard </a>
+
+
+
    
    
    
