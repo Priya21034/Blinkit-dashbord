@@ -33,10 +33,11 @@ Chart's Requirements
    ### Dashboard
    -<a href="https://github.com/Priya21034/Blinkit-dashbord/blob/main/BlinkIT%20Dashboard.xlsx"> View Dashboard </a>
 
- [BlinkIT Dashboard](https://github.com/user-attachments/assets/c67c7b13-a1d5-48da-a6c1-dae6a85fd513)
+    
 
    
    
    
+![BlinkIT Dashboard](https://github.com/user-attachments/assets/90305c13-06e1-42c7-8eab-6bac8224ad3d)
 
 
